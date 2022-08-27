@@ -1,0 +1,13 @@
+// const {
+//   tables
+// } = require('..');
+
+// module.exports = {
+//   seed: async (knex) => {
+//     await knex(tables.datasource).delete();
+
+//     await knex(tables.datasource).insert([
+
+//     ]);
+//   }
+// };
